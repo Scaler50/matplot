@@ -28,5 +28,6 @@ int main(int argc, char** argv)
         matplot.PlotDisplay(x, y, name);
       }
   }
+  
   return 0;
 }
